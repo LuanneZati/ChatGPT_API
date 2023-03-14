@@ -1,0 +1,9 @@
+.vs
+bin
+obj
+Properties
+appsettings.Development.json
+appsettings.json
+ChatGPT_API.csproj.user
+WeatherForecast.cs
+ChatGPT_API.csproj
